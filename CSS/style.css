@@ -118,3 +118,7 @@ nav ul li+li+li{
     line-height: 1.5;
     color: #333;
 }
+.content img{
+    height: 300px;
+ 
+}
